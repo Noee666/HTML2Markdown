@@ -1,0 +1,16 @@
+# Compilación
+out/
+target/
+build/
+*.class
+
+# Salidas generadas (los ejemplos documentados están en evidencias/ y tests/esperado/)
+output/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
